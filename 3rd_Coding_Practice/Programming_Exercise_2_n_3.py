@@ -28,7 +28,6 @@ def convolve1d(x, h):
     return y
 
 
-# Example test
 x = np.array([1, 2, 3])
 h = np.array([0.5, 0.5])
 
